@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# HelloWorld
+# Hello World
 Author: Philipp Breitler <br>
 LBS Eibiswald | 2aAPC
 
@@ -19,7 +19,8 @@ git checkout origin/master
 Technologien im Einsatz:
 
 <a href="#macropower-tech">
-    <img src="./images/java.svg" width="48" height="48" alt="C++" />
+    <img src="./images/java.svg" width="48" height="48" alt=">Java" />
+    <img src="./images/Intellij.svg" width="48" height="48" alt="Intellij" />
 </a>
 
 ```php
